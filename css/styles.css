@@ -60,7 +60,7 @@ body {
     background-color: #fce29e;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-header button, .navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
 
